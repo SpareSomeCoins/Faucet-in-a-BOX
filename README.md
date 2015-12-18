@@ -17,4 +17,8 @@ We are Not the original Developers of this Script.
 <h2>Reporting Bugs, Errors, Issues</h2>
 As we have stated we are not the original developers of this script, we will in fact offer basic support to our clients when it comes to this script. We do suggest that you view the original developers site for further information and or issue related help.
 
-https://faucetinabox.com/
+Faucet in a BOX Official Website: https://www.faucetinabox.com/
+
+<h2>Installing Faucet in a BOX</h2>
+
+<strong>Download</strong>
