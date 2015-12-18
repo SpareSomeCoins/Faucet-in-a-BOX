@@ -20,13 +20,13 @@ Faucet in a BOX Official Website: https://www.faucetinabox.com/
 
 <h2>Installing Faucet in a BOX</h2>
 
-<strong>1: Download</strong>
+<strong>1: Download - </strong>
 We will do our best to make sure that the script stays up to date, we do suggest that if there is a mandatory update of any software or scripts and we have not updates our resources to contact us immediately and we will have our team get right on it. You can download a master copy right from here and unzip it into your web directory.
 
-<strong>2: Configure</strong>
+<strong>2: Configure - </strong>
 Open config.php file with any text editor and replace default values with your database connection parameters. You can get them from your hosting provider.
 
-<strong>3: Finalize & Customize</strong>
+<strong>3: Finalize & Customize - </strong>
 Open your website and go to Admin Panel. You can customize your new faucet there. You can reach your admin panel by simply adding ?p=admin to the end of your domain. ie: http://yourdomainname.com/?p=admin
 
 <h2>Script Requirements</h2>
