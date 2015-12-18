@@ -6,7 +6,6 @@
  *
  * Copyright 2015 LiveHome Sp. z o. o.
  *
- * All rights reserved. Redistribution and modification of this file in any form is forbidden.
  * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
  *
  */
