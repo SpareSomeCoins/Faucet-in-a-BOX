@@ -5,7 +5,7 @@ class SpareSomeCoins
     protected $api_key;
     protected $currency;
     public $last_status = null;
-    protected $api_base = "https://api.sparesomecoins.com/sandbox/v2.0/";
+    protected $api_base = "https://api.sparesomecoins.com/v1.0/";
 
     public function __construct($api_key, $currency, $disable_curl = false, $verify_peer = true) {
         $this->api_key = $api_key;
